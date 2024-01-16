@@ -33,7 +33,7 @@ Other things you might need to run the tests:
 Create your own fork of `threshr`, then clone your fork anywhere:
 
 ```shell
-git clone git@github.com:Graqr/Threshr.git
+git clone git@github.com:Graqr/Augr.git
 ```
 
 `cd` into the directory and install the dependencies:

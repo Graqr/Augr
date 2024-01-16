@@ -2,11 +2,11 @@
 
 
 ---
-[![Build](https://github.com/Graqr/Java-Template/actions/workflows/maven.yml/badge.svg)](https://github.com/Graqr/Java-Template/actions)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Graqr/Java-Template)
-![GitHub](https://img.shields.io/github/license/Graqr/Java-Template)
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Graqr/Java-Template/main)
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/y/Graqr/Java-Template)
+[![Build](https://github.com/Graqr/Augr/actions/workflows/maven.yml/badge.svg)](https://github.com/Graqr/Augr/actions)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Graqr/Augr)
+![GitHub](https://img.shields.io/github/license/Graqr/Augr)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Graqr/Augr/main)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/y/Graqr/Augr)
 
 ## Summary
 
@@ -46,4 +46,4 @@ ___
  
 [contributing]:Contributing.md
 <!--TODO: update to new repo name post clone -->
-[open issues]:https://github.com/Graqr/Java-Template/issues?q=is%3Aopen+is%3Aissue 
+[open issues]:https://github.com/Graqr/Augr/issues?q=is%3Aopen+is%3Aissue 
